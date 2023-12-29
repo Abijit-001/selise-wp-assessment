@@ -1,0 +1,92 @@
+/*
+Theme Name: Custom Theme Child
+Template: customtheme
+Author: Abijit Barua
+Description: Child theme for the Custom Theme
+Version: 1.0
+*/
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+nav {
+    background-color: #444;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: 20px auto;
+}
+
+.category-dropdown {
+    position: relative;
+    display: inline-block;
+}
+
+.category-dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #fff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    border: 1px solid #ddd;
+    padding: 10px;
+    z-index: 1;
+}
+
+.category-dropdown:hover .category-dropdown-content {
+    display: block;
+}
+
+.category-dropdown-content a {
+    display: block;
+    padding: 5px 0;
+    text-decoration: none;
+    color: #3a24ff;
+}
+
+article {
+    margin-bottom: 20px;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease-in-out;
+}
+
+article img {
+    max-width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+article h2 {
+    color: #333;
+}
+
+article .post-meta {
+    font-size: 14px;
+    color: #777;
+    margin-top: 10px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
