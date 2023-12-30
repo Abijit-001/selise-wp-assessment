@@ -30,3 +30,6 @@ Stack trace:
 [29-Dec-2023 11:44:25 UTC] Author Email: abc@nomail.com
 [29-Dec-2023 11:44:25 UTC] Category: Historical fiction
 [29-Dec-2023 11:56:12 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\HP\Local Sites\selise-assessment\app\public\wp-includes\class-wp-customize-widgets.php on line 905
+[30-Dec-2023 07:32:10 UTC] Author Name: Bibhutibhushan Bandyopadhyay
+[30-Dec-2023 07:32:10 UTC] Author Email: abc@nomail.com
+[30-Dec-2023 07:32:10 UTC] Category: Historical fiction

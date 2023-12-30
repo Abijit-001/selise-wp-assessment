@@ -1,0 +1,308 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Devotion\n"
+"POT-Creation-Date: 2023-12-20 15:41+0530\n"
+"PO-Revision-Date: 2023-12-20 15:41+0530\n"
+"Last-Translator: \n"
+"Language-Team: Flythemes Team <support@flythemes.net>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;esc_attr_e;esc_html_e;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: block-patterns.php:17
+msgid "Devotion"
+msgstr ""
+
+#: inc/about.php:48
+msgid "Free Full Site Editing WordPress Theme"
+msgstr ""
+
+#: inc/about.php:59
+msgid "Getting Started with Devotion!"
+msgstr ""
+
+#: inc/about.php:60
+msgid ""
+"Awesome! Devotion has been installed and activated successfully. Now, you "
+"can start building your dream website with a wide range of highly-"
+"customizable block patterns, templates, and template parts available in this "
+"astounding theme."
+msgstr ""
+
+#: inc/about.php:66
+msgid "More Features with Devotion Pro Theme"
+msgstr ""
+
+#: inc/about.php:67
+msgid ""
+"To get more features and unique home page sections, we recommend you "
+"activate the Devotion Pro. With the pro theme installed, get more options "
+"like google fonts, colors, sliders, page template, shortcodes and more."
+msgstr ""
+
+#: inc/about.php:68
+msgid "Buy Devotion Pro"
+msgstr ""
+
+#: inc/about.php:77
+msgid "Important Links"
+msgstr ""
+
+#: inc/about.php:78
+msgid "Theme Info"
+msgstr ""
+
+#: inc/about.php:79
+msgid "View Demo"
+msgstr ""
+
+#: inc/about.php:80
+msgid "Support"
+msgstr ""
+
+#: inc/about.php:87
+msgid "Leave us a review"
+msgstr ""
+
+#: inc/about.php:88
+msgid ""
+"Loved Devotion? Feel free to leave your feedback. Your opinion helps us "
+"reach more audiences!"
+msgstr ""
+
+#: inc/about.php:89
+msgid "Review"
+msgstr ""
+
+#: patterns/404.php:12
+msgid "404"
+msgstr ""
+
+#: patterns/404.php:16
+msgid "Page not found!"
+msgstr ""
+
+#: patterns/404.php:20
+msgid "Sorry, the page you are looking for does not exist or has been moved."
+msgstr ""
+
+#: patterns/404.php:25
+msgid "Return Home"
+msgstr ""
+
+#: patterns/about.php:20
+msgid "Joyful Harvest"
+msgstr ""
+
+#: patterns/about.php:24
+msgid "Reaping Joy in God’s Abundance"
+msgstr ""
+
+#: patterns/about.php:28
+msgid ""
+"Maecenas tincidunt, mi quis rutrum feugiat, felis enim sagittis metus, nec "
+"molestie nunc sapien a risus. Mauris a orci cursus, fringilla elit in, "
+"laoreet elit. Aliquam fringilla tempor nunc ut auctor. Curabitur nunc nisi, "
+"imperdiet sed tincidunt a, luctus at libero."
+msgstr ""
+
+#: patterns/about.php:32
+msgid ""
+"Vivamus tempus accumsan erat, at sollicitudin justo elementum vitae. Nullam "
+"tempor malesuada aliquam. Donec ligula nulla, cursus id posuere sit amet, "
+"sodales vel quam. Proin fermentum, sem vitae vestibulum posuere, eros felis "
+"pulvinar velit, et maximus sem felis non purus."
+msgstr ""
+
+#: patterns/about.php:37
+msgid "Visit This Sunday"
+msgstr ""
+
+#: patterns/archive.php:54
+msgid "Sorry, No posts exists..."
+msgstr ""
+
+#: patterns/archive.php:65
+#: patterns/single.php:63
+msgid "Search"
+msgstr ""
+
+#: patterns/archive.php:75
+#: patterns/single.php:73
+msgid "Popular Posts"
+msgstr ""
+
+#: patterns/archive.php:99
+#: patterns/single.php:97
+msgid "Categories"
+msgstr ""
+
+#: patterns/archive.php:109
+#: patterns/single.php:107
+msgid "Archives"
+msgstr ""
+
+#: patterns/archive.php:119
+#: patterns/single.php:117
+msgid "Tags"
+msgstr ""
+
+#: patterns/banner.php:15
+msgid "Choose the right way"
+msgstr ""
+
+#: patterns/banner.php:21
+msgid "Continue the Great Work"
+msgstr ""
+
+#: patterns/banner.php:21
+msgid "of Jesus Christ on Earth"
+msgstr ""
+
+#: patterns/banner.php:26
+msgid "Connect with us"
+msgstr ""
+
+#: patterns/events.php:13
+msgid "Our Hope"
+msgstr ""
+
+#: patterns/events.php:17
+msgid "Upcoming Events"
+msgstr ""
+
+#: patterns/events.php:25
+msgid ""
+"Pellentesque sit amet erat egestas, ultricies neque ut, tristique nisi. Duis "
+"non gravida turpis. Donec lacinia<br>rhoncus mi ut suscipit. Nunc quis "
+"venenatis ligula."
+msgstr ""
+
+#: patterns/events.php:45
+msgid "Nov 6"
+msgstr ""
+
+#: patterns/events.php:49
+#: patterns/events.php:81
+#: patterns/events.php:113
+msgid "2025"
+msgstr ""
+
+#: patterns/events.php:55
+msgid "Lord is Sufficient for all of our needs"
+msgstr ""
+
+#: patterns/events.php:77
+msgid "Nov 12"
+msgstr ""
+
+#: patterns/events.php:87
+msgid "Inner Peace Conference For The Old"
+msgstr ""
+
+#: patterns/events.php:109
+msgid "Dec 20"
+msgstr ""
+
+#: patterns/events.php:119
+msgid "Which is the same as saying Prayer"
+msgstr ""
+
+#: patterns/features.php:21
+msgid "Bible Reading"
+msgstr ""
+
+#: patterns/features.php:25
+#: patterns/features.php:43
+#: patterns/features.php:61
+#: patterns/features.php:79
+msgid ""
+"Pellentesque sit amet erat egestas, ultricies neque ut, tristique nisi. Duis "
+"non gravida turpis."
+msgstr ""
+
+#: patterns/features.php:39
+msgid "Cross Prayers"
+msgstr ""
+
+#: patterns/features.php:57
+msgid "Helping Poor"
+msgstr ""
+
+#: patterns/features.php:75
+msgid "Our Community"
+msgstr ""
+
+#: patterns/footer.php:41
+msgid "Our Location"
+msgstr ""
+
+#: patterns/footer.php:45
+#: patterns/header.php:18
+msgid "42, Charles Terrace, Queensland, Australia."
+msgstr ""
+
+#: patterns/footer.php:51
+msgid "Call Us"
+msgstr ""
+
+#: patterns/footer.php:55
+msgid "+(570) 226-1337"
+msgstr ""
+
+#: patterns/footer.php:61
+msgid "Our Email"
+msgstr ""
+
+#: patterns/footer.php:65
+msgid "info@sitename.com"
+msgstr ""
+
+#: patterns/footer.php:77
+msgid "© Copyright 2023. All Rights Reserved."
+msgstr ""
+
+#: patterns/footer.php:81
+msgid "Proudly powered by"
+msgstr ""
+
+#: patterns/footer.php:81
+msgid "Fly Themes"
+msgstr ""
+
+#: patterns/footer.php:81
+msgid "and"
+msgstr ""
+
+#: patterns/footer.php:81
+msgid "https://wordpress.org"
+msgstr ""
+
+#: patterns/footer.php:81
+msgid "WordPress"
+msgstr ""
+
+#: patterns/header.php:28
+msgid "contact@devotion.com"
+msgstr ""
+
+#: patterns/header.php:38
+msgid "+61 (11) 9294 0923"
+msgstr ""
+
+#: patterns/header.php:74
+msgid "Donate"
+msgstr ""
+
+#: patterns/latest-news.php:13
+msgid "Latest Blogs"
+msgstr ""
+
+#: patterns/latest-news.php:17
+msgid "Community News"
+msgstr ""
